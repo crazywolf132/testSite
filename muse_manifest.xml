@@ -1,0 +1,100 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fest.com" resolutions="1x" timestamp="1495168915310">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="about.css" crc="3825817215" ref="about"/>
+    <file name="havana.css" crc="306364447" ref="havana"/>
+    <file name="joel.css" crc="4168191771" ref="joel"/>
+    <file name="index.css" crc="4043180145" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>joel:phone>havana:phone>about:about:index:joel:havana"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>joel:phone>havana:phone>about:about:index:joel:havana"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>joel:phone>havana:phone>about:about:index:joel:havana"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>joel:phone>havana:phone>about:about:index:joel:havana"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="phone>index:about:index:joel:havana"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>joel:phone>havana:phone>about:about:index:joel:havana"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>joel:phone>havana:phone>about:about:index:joel:havana"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="4051641515" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1122-4.png" crc="202244502" ref="phone>index"/>
+    <file name="u1131-8.png" crc="473976559" ref="phone>index"/>
+    <file name="u1128-4.png" crc="198711685" ref="phone>index"/>
+    <file name="u1134-4.png" crc="428870973" ref="phone>index"/>
+    <file name="phonebg.jpg" crc="89012499" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u379-4.png" crc="3993683457" ref="about"/>
+    <file name="u385-4-a.png" crc="4262915429" ref="about"/>
+    <file name="u391-4.png" crc="376623975" ref="about"/>
+    <file name="u397-4.png" crc="202269490" ref="about"/>
+    <file name="aboutbg.jpg" crc="3874811939" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u435-4-a.png" crc="3993683457" ref="index"/>
+    <file name="u438-4.png" crc="4262915429" ref="index"/>
+    <file name="u441-4.png" crc="376623975" ref="index"/>
+    <file name="u444-4.png" crc="202269490" ref="index"/>
+    <file name="u457-4.png" crc="102223394" ref="index"/>
+    <file name="u460-4.png" crc="4061643797" ref="index"/>
+    <file name="u463-4.png" crc="64923125" ref="index"/>
+    <file name="u466-4.png" crc="4236000795" ref="index"/>
+    <file name="u469-4.png" crc="131969284" ref="index"/>
+    <file name="u472-4.png" crc="300555823" ref="index"/>
+    <file name="zap.png" crc="3967682917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u475-4.png" crc="165181684" ref="index"/>
+    <file name="u478-4.png" crc="28383289" ref="index"/>
+    <file name="u481-4.png" crc="4137791056" ref="index"/>
+    <file name="u484-4.png" crc="4261433372" ref="index"/>
+    <file name="u487-4.png" crc="4294378966" ref="index"/>
+    <file name="u490-4.png" crc="515730817" ref="index"/>
+    <file name="u585-4.png" crc="265801360" ref="index"/>
+    <file name="u611-4.png" crc="3972941152" ref="index"/>
+    <file name="u621-4.png" crc="236341392" ref="index"/>
+    <file name="bg.jpg" crc="4130338463" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u650-4.png" crc="3993683457" ref="joel"/>
+    <file name="u653-4.png" crc="4262915429" ref="joel"/>
+    <file name="u656-4.png" crc="376623975" ref="joel"/>
+    <file name="u659-4.png" crc="202269490" ref="joel"/>
+    <file name="joel.jpg" crc="4253392520" ref="joel">
+      <caption webpage="joel" alt=""/>
+    </file>
+    <file name="u730-4.png" crc="3993683457" ref="havana"/>
+    <file name="u733-4.png" crc="4262915429" ref="havana"/>
+    <file name="u736-4.png" crc="376623975" ref="havana"/>
+    <file name="u739-4.png" crc="202269490" ref="havana"/>
+    <file name="havana brown.jpg" crc="3863262979" ref="havana">
+      <caption webpage="havana" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="112750849" ref="phone>index"/>
+      <file name="joel.css" crc="62426684" ref="phone>joel"/>
+      <file name="havana.css" crc="62426684" ref="phone>havana"/>
+      <file name="about.css" crc="62426684" ref="phone>about"/>
+      <file name="nomq_about.css" crc="3824530138" ref="phone>about"/>
+    </folder>
+    <file name="index.html" crc="319452188" seo="true" mt="1495168847366" redirect="true"/>
+    <file name="joel.html" crc="256973012" seo="true" mt="1495167593797" redirect="false"/>
+    <file name="havana.html" crc="4000971057" seo="true" mt="1495167593816" redirect="false"/>
+    <file name="about.html" crc="3982824313" seo="true" mt="1495167593826" redirect="false"/>
+  </folder>
+  <file name="about.html" crc="4224478591" seo="true" mt="1495168909175" redirect="true"/>
+  <file name="index.html" crc="19851801" seo="true" mt="1495167594005" redirect="true"/>
+  <file name="joel.html" crc="308290343" seo="true" mt="1495167594086" redirect="true"/>
+  <file name="havana.html" crc="4191231315" seo="true" mt="1495167594172" redirect="true"/>
+</manifest>
